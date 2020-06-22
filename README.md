@@ -20,8 +20,8 @@ us to generate a custom board for you.
 | Description | Photo |
 |:-----------:|:-----:|
 | Top side | ![top-fs8](https://user-images.githubusercontent.com/5507503/81975323-83f93c80-962f-11ea-94fd-49229816e784.png) |
-| GND plane is routed to all smaller round holes | ![gnd-fs8](https://user-images.githubusercontent.com/5507503/81975324-852a6980-962f-11ea-81d8-7dcd8c14da9d.png) |
-| VCC plane is routed to all square holes | ![vcc-fs8](https://user-images.githubusercontent.com/5507503/81975316-82c80f80-962f-11ea-813e-8740bb9c83b4.png) |
+| GND plane is routed to all small round pads | ![gnd-fs8](https://user-images.githubusercontent.com/5507503/81975324-852a6980-962f-11ea-81d8-7dcd8c14da9d.png) |
+| VCC plane is routed to all square pads | ![vcc-fs8](https://user-images.githubusercontent.com/5507503/81975316-82c80f80-962f-11ea-813e-8740bb9c83b4.png) |
 | Vertical bus lanes on the top side | ![buses_top-fs8](https://user-images.githubusercontent.com/5507503/81975326-86f42d00-962f-11ea-8d41-e54a4949bb60.png) |
 | Bottom side| ![bottom-fs8](https://user-images.githubusercontent.com/5507503/81975369-94a9b280-962f-11ea-9ede-9023939d22a6.png) |
 | Horizontal bus lanes on the bottom side | ![buses_bottom-fs8](https://user-images.githubusercontent.com/5507503/81975336-89568700-962f-11ea-93a6-90df35724544.png) |
@@ -43,7 +43,8 @@ When ordering, select these options:
 * Edge rails: **no**
 
 You will get 10 panels with two 50x100mm boards each (20 boards in
-total). Total price with shipping should be less than 18$.
+total). Total price with shipping will be different depending on your
+location, but it should be around 18$ or less.
 
 
 ## Other projects
